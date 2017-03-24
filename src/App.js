@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import Validator from './Validator';
 
-class App extends Component {
+class Login extends Component {
   render() {
     return (
       <Validator />
@@ -9,4 +9,4 @@ class App extends Component {
   }
 }
 
-export default App;
+export default Login;
